@@ -1,13 +1,13 @@
 📊 Motorola Mobile Sales Dashboard
 📌 Project Overview
 
-This project is an interactive Mobile Sales Analysis Dashboard built using Motorola mobile sales data. The goal of the project is to analyze sales performance, customer behavior, and transaction trends across different dimensions such as time, city, brand, and payment methods.
+This project is an interactive Mobile Sales Analysis Dashboard built using mobile sales data. The goal of the project is to analyze sales performance, customer behavior, and transaction trends across different dimensions such as time, city, brand, and payment methods.
 
 The dashboard provides meaningful insights that help in data-driven decision making for sales strategy and business growth.
 
 
 🎯 Objectives
-To design and develop an interactive Power BI dashboard that analyzes Motorola mobile sales data, uncovering trends in sales, customer behavior, and regional performance to enable informed business decisions.
+To design and develop an interactive Power BI dashboard that analyzes mobile sales data, uncovering trends in sales, customer behavior, and regional performance to enable informed business decisions.
 
 
 🚀 Key Features
